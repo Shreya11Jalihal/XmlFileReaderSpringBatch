@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<VehicleOrder>
+<Vehicle>
     <Contract OrderId="1001">
     	<VIN>102234</VIN>
         <Brand>PEUGEOT</Brand>
@@ -13,7 +13,7 @@
         <Brand>CITREON</Brand>
         <Country>FRANCE</Country>
         <ContractName>Contract reg2</ContractName>
-        <ProcessingDate>2020-07-30</ProcessingDate>
+        <ProcessingDate>2021-09-30</ProcessingDate>
     </Contract>
 
     <Contract OrderId="1001">
@@ -21,7 +21,7 @@
         <Brand>DS</Brand>
         <Country>FRANCE</Country>
         <ContractName>Contract reg3</ContractName>
-        <ProcessingDate>2018-05-29</ProcessingDate>																																																																																																																																																							
+        <ProcessingDate>2022-12-29</ProcessingDate>																																																																																																																																																							
     </Contract>
 
     <Contract OrderId="1001">
@@ -38,7 +38,7 @@
          <Brand>DODGE</Brand>
          <Country>UNITEDSTATES</Country>
        	 <ContractName>Contract reg5</ContractName>
-        	<ProcessingDate>2018-04-22</ProcessingDate>
+        	<ProcessingDate>2021-11-22</ProcessingDate>
     </Contract>
 
-</VehicleOrder>
+</Vehicle>
